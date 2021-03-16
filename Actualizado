@@ -4,14 +4,24 @@
 # Proyecto ISP: https://ipcomsistemas.co
 #
 # Este reporte es valido para justificacion de Fallas de los Usuarios del servicio de Internet IPcom Sistemas
-# ======================================================================================================
+# ===========================================================================================================
+*************************************************************************************************************
 
 
 
 
 
-#
 suceso: Sabado 13 de marzo de 2021- Hora:13:00, se presenta caida en el servidor de DNS principal 172.31.180.20 por motivo de actualizacion.
 #
+#
+#
+Suceso:   // hora: 10:00 día 22 de febrero 2021- //sector afectado: usuarios ** antena sectorial cerro municipio Contratación** // causa: ** perdida de energía en el nodo solar**// Tiempo de duración afectación: 00:10:00 // Solución: “en proceso”
+#
+#
+#
 reinstalacion del servidor Speedtest local de ipcom sistemas hora:08:00, con url btest.ipcomsistemas.net.com, http://172.30.90.100/ para uso local
+Mantenimiento:   // hora: 21:00 - 05:00 día 04 de enero 2021- //sector afectado: usuarios ** todos los usuarios** // causa: ** cambio de equipos Core1- core2, implementación 10G equipos de borde**// Tiempo de duración afectación: 09:00:00 // Solución: “efectiva”
+#
+#
+#
 
