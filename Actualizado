@@ -1,4 +1,4 @@
-#
+
 # Reporte de fallas y sucesos de la red IPcom Sistemas SAS
 # 
 # Proyecto ISP: https://ipcomsistemas.co
@@ -10,7 +10,7 @@
 
 
 
-FALLA:   // hora: 19:28 día 18 de Marzo 2021- //sector afectado: Contratacion -El Guacamayo  ** FTTH (fibra optica)** // causa: ** Reinicio OLT princial por perdida de energia**// Tiempo de duración afectación: 00:08:00 // Solución: “ se inicia repaldo de energia Resuelta”
+FALLA:   // hora: 19:28 día 18 de Marzo 2021- //sector afectado: Contratacion -El Guacamayo  ** FTTH (fibra optica)** // causa: ** Reinicio OLT princial por perdida de energia**// Tiempo de duración afectación: 00:08:00 // Solución: “ se inicia repaldo de energia, ResueltO”
 #
 #
 #
@@ -23,7 +23,7 @@ SUCESO:   // hora: 10:00 día 22 de febrero 2021- //sector afectado: usuarios **
 #
 #
 MANTENIMIENTO: //reinstalacion del servidor Speedtest local de ipcom sistemas hora:08:00, con url btest.ipcomsistemas.net.com, http://172.30.90.100/ para uso local
-Mantenimiento:   // hora: 21:00 - 05:00 día 04 de enero 2021- //sector afectado: usuarios ** todos los usuarios** // causa: ** cambio de equipos Core1- core2, implementación 10G equipos de borde**// Tiempo de duración afectación: 09:00:00 // Solución: “efectiva”
+MANTENIMIENTO: // hora: 21:00 - 05:00 día 04 de enero 2021- //sector afectado: usuarios ** todos los usuarios** // causa: ** cambio de equipos Core1- core2, implementación 10G equipos de borde**// Tiempo de duración afectación: 09:00:00 // Solución: “efectiva”
 #
 #
 #
