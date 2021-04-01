@@ -2,13 +2,17 @@
 # Reporte de fallas y sucesos de la red IPcom Sistemas SAS
 # 
 # Proyecto ISP: https://ipcomsistemas.co
-#
+# el tiempo minimo para resolver fallas por causas naturales es de 08:00 Horas
 # Este reporte es valido para justificacion de Fallas de los Usuarios del servicio de Internet IPcom Sistemas
 # ===========================================================================================================
 *************************************************************************************************************
 
 
 
+
+SOLUCION:// hora: 08:35 día 01 de abril 2021- //sector afectado: Contratacion -internet rural veredas  ** wirireless** // causa: ** puerto bloqueado de la celda Nodo cerro por tormentas electricas **// Tiempo de duración afectación: 00:13:30 // Solución: “ personal llega al cerro y reinica Nodo, se recupera operatividad de inmediato”
+#
+#
 FALLA:   // hora: 19:05 día 31 de Marzo 2021- //sector afectado: Contratacion -internet rural veredas  ** wirireless** // causa: ** puerto bloqueado de la celda Nodo cerro por tormentas electricas **// Tiempo de duración afectación: 00:00:00 // Solución: “ en proceso”
 #
 #
