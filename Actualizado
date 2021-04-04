@@ -12,6 +12,10 @@
 
 
 
+FALLA:   // hora: 09:30 día Domingo 04 de Abril 2021- //sector afectado: Contratacion -El Guacamayo  ** FTTH (fibra optica)- wirirelesss (Radio-enlace)** // causa: ** Fluctuacion electrica en Core Principal **// Tiempo de duración afectación: 00:7:00 // Solución: “Se inicial respaldo de energia con Planta electrica”
+#
+#
+#
 SOLUCION:// hora: 08:35 día Jueves 01 de abril 2021- //sector afectado: Contratacion -internet rural veredas  ** wirireless** // causa: ** puerto bloqueado de la celda Nodo cerro por tormentas electricas **// Tiempo de duración afectación: 00:13:30 // Solución: “ personal llega al cerro y reinica Nodo, se recupera operatividad de inmediato”
 #
 #
