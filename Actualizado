@@ -11,6 +11,10 @@
 
 
 
+FALLA:   // hora: 00:30 día Domingo 13 de Junio 2021- //sector afectado: Contratacion- El guacamayo  ** FTTH - wirirelesss (Radio-enlace)** // causa: ** corte de energia electrica causa apagon en core principal  afectando la red **// Tiempo de duración afectación: 04:44:20 // Solución: “se hace intervencion en transferencia y en sistemas electricos arrancando manualmente nodo principal”
+#
+#
+#
 FALLA:   // hora: 13:08 día Miercoles 19 de Mayo 2021- //sector afectado: Contratacion- El guacamayo  ** FTTH - wirirelesss (Radio-enlace)** // causa: ** corte de energia electrica causa apagon en core principal  afectando la red **// Tiempo de duración afectación: 00:00:20 // Solución: “se hace intervencion en transferencia y en sistemas electricos arrancando manualmente nodo principal”
 #
 #
