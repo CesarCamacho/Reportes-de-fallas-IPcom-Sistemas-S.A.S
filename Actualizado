@@ -11,6 +11,11 @@
 
 
 
+
+FALLA:   // hora: 09:18 día Martes 22 de Junio 2021- //sector afectado: Contratacion- El guacamayo  ** FTTH - wirirelesss (Radio-enlace)** // causa: ** caida en backbone del proveedor principal Lumen **// Tiempo de duración afectación: 01:00:20 // Solución: “se restablece servicio a las 10:35, se desconoce datos sobre restablecimiento”
+#
+#
+#
 FALLA:   // hora: 00:30 día Domingo 13 de Junio 2021- //sector afectado: Contratacion- El guacamayo  ** FTTH - wirirelesss (Radio-enlace)** // causa: ** corte de energia electrica causa apagon en core principal  afectando la red **// Tiempo de duración afectación: 04:44:20 // Solución: “se hace intervencion en transferencia y en sistemas electricos arrancando manualmente nodo principal”
 #
 #
