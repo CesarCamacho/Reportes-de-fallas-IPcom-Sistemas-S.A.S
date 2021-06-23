@@ -1,7 +1,7 @@
 
-# Reporte de fallas y sucesos de la red IPcom Sistemas SAS
+# Reporte de fallas y sucesos de la red 
 # 
-# Proyecto ISP: https://ipcomsistemas.co
+# proveedor de Internet ISP  IPcom Sistemas SAS: https://ipcomsistemas.co
 # el tiempo minimo para resolver fallas por causas naturales es de 08:00 Horas
 # Horario establecido para mantenimientos y actualizaciones es de 02:00 a 05:00
 # Este reporte es valido para justificacion de Fallas de los Usuarios del servicio de Internet IPcom Sistemas
@@ -11,7 +11,10 @@
 
 
 
-
+FALLA:   // hora: 00:00 día Miercoles 23 de Junio 2021- //sector afectado: Contratacion- El guacamayo  ** FTTH - wirirelesss (Radio-enlace)** // causa: ** se requiere actualizar Hardware con el proposito de mejorar el rendimiento de la red del proveedor principal Lumen **// Tiempo de duración afectación: 00:00:00 // Solución: “desconocida"
+#
+#
+#
 FALLA:   // hora: 09:18 día Martes 22 de Junio 2021- //sector afectado: Contratacion- El guacamayo  ** FTTH - wirirelesss (Radio-enlace)** // causa: ** caida en backbone del proveedor principal Lumen **// Tiempo de duración afectación: 01:00:20 // Solución: “se restablece servicio a las 10:35, se desconoce informacion sobre la causa de la falla”
 #
 #
