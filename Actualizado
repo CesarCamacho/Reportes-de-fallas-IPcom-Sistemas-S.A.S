@@ -11,7 +11,10 @@
 
 
 
-
+FALLA:   // hora: 19:24 día Jueves 12 de Agosto 2021- //sector afectado: Contratacion-** Wirirelesss (Radio-enlace)** Veredas municipio de contratacion y guadalupe Sder // causa: ** bloquedo de puerto SFTP celda Cerro causa caida **// Tiempo de duración afectación: 02h:10m:00s // Solución: “personal tecnico se desplaza hasta la celda para reiniciar puerto”
+#
+#
+#
 FALLA:   // hora: 07:39 día Jueves 12 de Agosto 2021- //sector afectado: Contratacion- El guacamayo  ** FTTH - wirirelesss (Radio-enlace)** // causa: ** corte de energia (face-caida) electrica causa apagon en core principal  afectando la red **// Tiempo de duración afectación: 01:12:20 // Solución: “se hace intervencion en transferencia y en sistemas electricos arrancando manualmente nodo principal”
 #
 #
