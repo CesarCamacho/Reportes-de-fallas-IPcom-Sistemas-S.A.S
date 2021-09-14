@@ -13,6 +13,13 @@
 
 
 
+AVANCE-SOLUCION// hora: 12:00 día Martes 14 de Septiembre 2021- //sector afectado: Contratacion- El guacamayo  ** FTTH - wirirelesss (Radio-enlace)** // causa: ** Intermitencia de servicio red general,**//  // Solución: “Acción de resolución/Fix action:  reinicio de la tarjeta.
+Resumen/Summary: se identificó afectación de varios servicios IP que convergen en Bogota - Colombia.   En las revisiones realizadas se encuentra falla sobre una tarjeta de equipo de Core, se procedió con el reinicio de está normalizando servicios. En posterior monitoreo no se presentan nuevos eventos.
+Este incidente ha sido resuelto.
+TSC Technical Service Level Engineer”
+#
+#
+#
 FALLA:   // hora: 10:55 día Martes 14 de Septiembre 2021- //sector afectado: Contratacion- El guacamayo  ** FTTH - wirirelesss (Radio-enlace)** // causa: ** Intermitencia de servicio red general, nuestro equipo técnico determinó que el problema fue producto de falla electrica en nodo.Para dar solución a la falla, se han realizado validaciones en conjunto con nuestro proveedor de ultima milla quien identifica que se presenta falla electrica en nodo, tras esto se agotan las baterias y es cuando cae el servicio, se mantiene caida de nodo por 18 minutos,causado por agotamiento de baterias en el nodo Guadalupe Santander **//  // Solución: “se reporta a nuestro proveedor de red la causa para tomar las medidas necesarias, mientras nodo reinicia y se recupera servicio”
 #
 #
