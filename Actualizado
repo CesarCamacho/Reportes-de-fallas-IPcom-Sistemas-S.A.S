@@ -13,7 +13,12 @@
 
 
 
-AVANCE-SOLUCION// hora: 12:00 día Martes 14 de Septiembre 2021- //sector afectado: Contratacion- El guacamayo  ** FTTH - wirirelesss (Radio-enlace)** // causa: ** Intermitencia de servicio red general,**//  // Solución: “Acción de resolución/Fix action:  reinicio de la tarjeta.
+
+AVANCE-// hora: 12:30 día Martes 14 de Septiembre 2021- //sector afectado: Contratacion- El guacamayo  ** FTTH - wirirelesss (Radio-enlace)** // causa: ** Intermitencia de servicio red general,**//  // Solución: “a la espera nuevamente de la verificacion del provvedor"
+#
+#
+#
+AVANCE-// hora: 12:00 día Martes 14 de Septiembre 2021- //sector afectado: Contratacion- El guacamayo  ** FTTH - wirirelesss (Radio-enlace)** // causa: ** Intermitencia de servicio red general,**//  // Solución: “Acción de resolución/Fix action:  reinicio de la tarjeta.
 Resumen/Summary: se identificó afectación de varios servicios IP que convergen en Bogota - Colombia.   En las revisiones realizadas se encuentra falla sobre una tarjeta de equipo de Core, se procedió con el reinicio de está normalizando servicios. En posterior monitoreo no se presentan nuevos eventos.
 Este incidente ha sido resuelto.
 TSC Technical Service Level Engineer”
