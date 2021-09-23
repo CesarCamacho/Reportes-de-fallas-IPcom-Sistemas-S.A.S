@@ -12,6 +12,10 @@
 
 
 
+FALLA:   // hora: 12:30 día Jueves 23 de Septiembre 2021- //sector afectado: Contratacion- El guacamayo  ** FTTH - wirirelesss (Radio-enlace)** // causa: ** Lumen identifico afectacion de varios servicios que convergen en SANTANDER, en Colombia. Nuestro Technical Service Center (TSC) se encuentra investigando para aislar la ubicacion y la causa de la falla **// // Solución: “Se observa estabilidad 30 minutos despues.”
+#
+#
+#
 FALLA:   // hora: 20:40 día Miercoles 15 de Septiembre 2021- //sector afectado: Contratacion- El guacamayo  ** FTTH - wirirelesss (Radio-enlace)** // causa: ** Se realizan validaciones sobre el servicio, se observa operativo con potencias dentro de los rangos, se observo cambio de estado en el nodo Cimitarra Santander del cual los servicios dependen aparentemente por falta de fluido electrico comercial. **// // Solución: “Se observa estabilidad una vez regresa dicho fluido electrico.”
 #
 #
