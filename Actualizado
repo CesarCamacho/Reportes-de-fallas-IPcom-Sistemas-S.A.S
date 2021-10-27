@@ -11,7 +11,8 @@
 
 
 
-FALLA:   // hora: 22:05 día Martes 26 de Octubre 2021- //sector afectado: Contratación- El Guacamayo ** FTTH - wirirelesss**//**//causa: se presentan saturacion en la red  trocal por corte de fibra optica// Solución: se realiza interconexion con proveedor de respado y reinicia operatividad//**Tiempo de afectación 43:12:00**
+FALLA:   // hora: 22:05 día Martes 26 de Octubre 2021- //sector afectado: Contratación- El Guacamayo ** FTTH - wirirelesss**//**//causa: Caida Nodo Velez y sus dependientes , La Paz Santander y Santana Contartacion, El Guacamayo, San Benito, La Paz Santander y Santana Boyacá,  bloqueo del equipo SPO de velez.
+HI: 26/10/2021 22:05. Personal llega al nodo de Vélez en donde se identifica SPO sin gestión por bloqueo, se procede a realizar reinicio físico del equipo recuperando gestión del mismo, así como la Operatividad del nodo Vélez y sus dependientes,// Solución: despues de reinicio se observa recuperar conectividad, bajo monitoreo servicio arriba en operatividad//**Tiempo de afectación 43:12:00**
 #
 #
 #
