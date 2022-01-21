@@ -3,7 +3,7 @@
 # 
 # CO-ISSA19-LACNIC
 # proveedor de Internet ISP  IPcom Sistemas SAS: https://ipcomsistemas.co
-# el tiempo minimo para resolver fallas por causas naturales es de 08:00 Horas
+# el tiempo minimo para resolver fallas por causas naturales es de 05:00 Horas
 # Horario establecido para mantenimientos y actualizaciones es de 02:00 a 05:00
 # Este reporte es valido para justificacion de Fallas de los Usuarios del servicio de Internet IPcom Sistemas
 # ===========================================================================================================
@@ -11,6 +11,10 @@
 
 
 
+FALLA:   // hora:12:35 día Viernes 21 de Enero 2022- //sector afectado: Contratación- El Guacamayo ** FTTH - wirirelesss**//**//causa: Se evidencio saturacion en el norte y centro del pais, por doble apertura de BB, primario Bogota - Tunja, Bogota - Tocancipa, Bogota Villavicencio, y Bogota Bucaramanga, esto genera caida y perdida de paquetes en costa, Casanare, Meta, Bucaramanga, Huila, Arauca.// Solución: // desconocida**Tiempo de afectación 02:11:00**
+#
+#
+#
 FALLA:   // hora: 04:05 día Lunes 6 de Diciembre 2021- //sector afectado: Contratación- El Guacamayo ** FTTH - wirirelesss**//**//causa: se presentan caida internalcional del trafico// Solución: //**Tiempo de afectación 08:36:00**
 #
 #
