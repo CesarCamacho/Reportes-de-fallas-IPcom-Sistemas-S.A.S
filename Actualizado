@@ -1,7 +1,7 @@
 
 # Reporte de fallas y sucesos de la red 
 # 
-# CO-ISSA19-LACNIC
+# CO-ISSA19-LACNIC  AS271927
 # proveedor de Internet ISP  IPcom Sistemas SAS: https://ipcomsistemas.co
 # el tiempo minimo para resolver fallas por causas naturales es de 05:00 Horas
 # Horario establecido para mantenimientos y actualizaciones es de 02:00 a 05:00
@@ -11,6 +11,11 @@
 
 
 
+
+SOLUCION:// hora: 21:00 día día Jueves 12 de Mayo 2022- //sector afectado: Contratacion  ** FTTH - wirirelesss (Radio-enlace)** // causa: ** causa:se presenta tormenta electrica afectando enlaces **//Tiempo de duración afectación: 04h:4m:00s // Solución: “desconocida"
+#
+#
+#
 SOLUCION:// hora: 22:49 día día Martes 2 de Marzo 2022- //sector afectado: Contratacion- El guacamayo  ** FTTH - wirirelesss (Radio-enlace)** // causa: ** causa:se presenta falla en sitio central inteconexion Bogota  con proveedor de ultima milla afectando varias zonas del pais , se esta revisando con especialistas de aliado para solventar la falla **//Tiempo de duración afectación: 04h:4m:00s // Solución: “desconocida"
 #
 #
